@@ -14,7 +14,7 @@ Make sure you have Node.js installed on your system.
     ```bash
     cd one-thing-app
     ```
-3. **nstall project dependencies using either npm or Yarn:**
+3. **install project dependencies using either npm or Yarn:**
     ```bash
     npm install
     ```
